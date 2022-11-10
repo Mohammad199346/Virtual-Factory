@@ -1,2 +1,2 @@
-https://www.youtube.com/watch?v=jRlCsbrNNuY
-https://github.com/Arvoria/RobaseService/releases
+# Introduction
+The aim of this project is to create a virtual factory in Roblox.
